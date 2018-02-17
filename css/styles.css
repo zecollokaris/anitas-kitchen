@@ -23,7 +23,6 @@ p.light {
 
 .column1 {
   flex: 1;
-  background-color: orange;
 }
 
 .column3 {
@@ -45,4 +44,26 @@ p.light {
   background-image: url("../img/foodtop/dinner.jpg");
   text-align: center;
   color: white;
+}
+
+#happyhour {
+  background-color: white;
+  text-align: center;
+}
+
+#partytime {
+  background-color: orange;
+}
+
+p#leftcolumn {
+  float: left;
+  width: 50%;
+  position: absolute;
+  left: 200px;
+  top: 1000px;
+}
+
+p#rightcolumn {
+  float: right;
+  width: 50%
 }
