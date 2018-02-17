@@ -1,5 +1,13 @@
-.centered {
+.jumbotron {
+  background-image: url("../img/backgrounds/landing.jpg");
+  background-size: cover;
+  height: 80vh;
+}
+
+<img src="assets/backgrounds/landing.jpg" alt="a photo of landing page">.centered {
   position: absolute;
   top: 50%;
   left: 50%
 }
+
+flexbox padding
