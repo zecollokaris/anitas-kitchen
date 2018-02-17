@@ -14,32 +14,33 @@ p.light {
 }
 
 .block2 {
-  max-width: 1300px;
-  margin: 40px auto 0 auto;
+  max-width: 100%;
+  margin: 80px% auto% 0 auto%;
   line-height: 1.65;
-  padding: 20px 50px;
+  padding-left: 0%;
   display: flex;
 }
 
 .column1 {
   flex: 1;
+  background-color: orange;
 }
 
-.column2 {
+.column3 {
   flex: 1;
   background-image: url("../img/foodtop/breakfast.jpg");
   text-align: center;
   color: white
 }
 
-.column3 {
+.column4 {
   flex: 1;
   background-image: url("../img/foodtop/lunch.jpg");
   text-align: center;
   color: white;
 }
 
-.column4 {
+.column5 {
   flex: 1;
   background-image: url("../img/foodtop/dinner.jpg");
   text-align: center;
