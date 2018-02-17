@@ -34,14 +34,14 @@ p.light {
 
 .column4 {
   flex: 1;
-  background-image: url("../img/foodtop/lunch.jpg");
+  background-image: url("../img/foodtop/dinner2.jpg");
   text-align: center;
   color: white;
 }
 
 .column5 {
   flex: 1;
-  background-image: url("../img/foodtop/dinner.jpg");
+  background-image: url("../img/foodtop/lunch.jpg");
   text-align: center;
   color: white;
 }
@@ -52,18 +52,45 @@ p.light {
 }
 
 #partytime {
-  background-color: orange;
+  background-color: #F97609;
 }
 
 p#leftcolumn {
+  font-family: serif;
   float: left;
   width: 50%;
-  position: absolute;
-  left: 200px;
-  top: 1000px;
 }
 
 p#rightcolumn {
+  font-family: serif;
   float: right;
-  width: 50%
+}
+
+p#leftcolumn2 {
+  font-family: serif;
+  float: left;
+}
+
+p#rightcolumn2 {
+  float: right;
+  font-family: serif;
+}
+
+.font {
+  font-family: serif;
+}
+
+.section4 {
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+}
+
+.section5 {
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+
+.footer {
+  background-color: #F97608;
 }
