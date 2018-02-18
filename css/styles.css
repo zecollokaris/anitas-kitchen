@@ -53,12 +53,12 @@ p.light {
 }
 
 #happyhour {
-  background-color: #d6d1c9;
+  background-color: #e0e0e0;
   text-align: center;
 }
 
 #partytime {
-  background-color: #F97609;
+  background-color: #f74600;
   text-align: center;
   color: white;
 }
@@ -103,7 +103,7 @@ p.light {
 }
 
 .arrow {
-  color: #F97609;
+  color: #f74600;
 }
 
 #links {
@@ -122,7 +122,7 @@ p.light {
 }
 
 .listImages p {
-  color: #F97609;
+  color: #f74600;
   font-weight: bold;
   margin-left: 100px;
 }
@@ -167,6 +167,8 @@ p.light {
 }
 
 .section6 {
-  background-color: #F97609;
+  background-color: #f74600;
   text-align: center;
+  color: white;
+  font-family: serif;
 }
