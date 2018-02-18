@@ -22,3 +22,8 @@
 #Description
 
 -This is a website landing page for Anita's kitchen. It includes details such as her customers, the foods served and soft drinks she provides, and her contact information.
+
+#Contact
+-Mobile number: (254) 798731203
+-Email Address: collo.kariss@gmail.com
+-github: zecollokaris
