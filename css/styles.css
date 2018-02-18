@@ -170,5 +170,5 @@ p.light {
   background-color: #f74600;
   text-align: center;
   color: white;
-  font-family: serif;
+  font-family: serif, times;
 }
